@@ -4,9 +4,6 @@
 python-replace-docx est un script Python conçu pour effectuer des remplacements de texte dans des fichiers DOCX. Le script prend en charge la conservation de la mise en page des documents d'origine.
 
 ## Prérequis
-Telecharger et installer python https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe
-Ouvrir un cmd et taper : pip install openpyxl docx
-
 Avant d'utiliser le script, assurez-vous d'avoir installé les éléments suivants :
 - Python : Téléchargez et installez Python à partir du site officiel : [https://www.python.org](https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe)
 - openpyxl : Vous pouvez installer cette bibliothèque Python en exécutant la commande suivante dans votre terminal : `pip install openpyxl`
